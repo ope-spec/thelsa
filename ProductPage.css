@@ -1,0 +1,105 @@
+.container-fluid{
+    clear: both;
+    overflow: auto;
+    background-color: rgb(12, 156, 212);
+    padding: 20px;
+}
+nav{
+    float: right;
+}
+.logo{
+    float: left;
+    color: white;
+    font-family: fantasy;
+}
+.kitchen{
+    float: left;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li a :hover{
+    color:beige;
+}
+.foot{
+    background-color: rgb(37, 37, 204);
+    margin: 0px;
+    height: 60px;
+}
+.menu{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkgrey;
+    border: 4px solid #55ACEE;
+    width: 30px;
+    
+}
+.menu1{
+    background-color: aliceblue;
+    width: 20%;
+}
+.container-fluid1{
+    clear: both;
+    overflow: auto;
+    background-color: rgb(12, 156, 212);
+    padding: 10px;
+}
+.news{
+    color: white;
+}
+.icon{
+    padding-left: 0px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-envelope{
+    
+    color: rgb(124, 31, 31);
+}
+.fa-youtube-play{
+    color: rgb(243, 42, 42);
+}
+.copy{
+    color: whitesmoke;
+    text-align: center;
+}
+.who{
+    text-align: center;
+    width: 35%;
+    border: 2px solid #55ACEE;
+    border-radius: 12px;
+    padding: 10px;
+    
+}
+.kitchen1{
+    float: right;
+    text-align: justify;
+}
+.kitchen{
+    float: left;
+}
+.container-fluid2{
+    background-image: url("../HTML/Images/rice.JPG");
+    background-size: 300% 400%;
+
+}

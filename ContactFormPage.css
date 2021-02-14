@@ -1,0 +1,77 @@
+.container-fluid{
+    clear: both;
+    overflow: auto;
+    background-color: rgb(12, 156, 212);
+    padding: 20px;
+}
+nav{
+    float: right;
+}
+.logo{
+    float: left;
+    color: white;
+    font-family: fantasy;
+}
+.kitchen{
+    float: left;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li a :hover{
+    color:beige;
+}
+.container-fluid1{
+    clear: both;
+    overflow: auto;
+    background-color: rgb(12, 156, 212);
+    padding: 10px;
+}
+.news{
+    color: white;
+}
+.icon{
+    padding-left: 0px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa-envelope{
+    
+    color: rgb(124, 31, 31);
+}
+.fa-youtube-play{
+    color: rgb(243, 42, 42);
+}
+.copy{
+    color: whitesmoke;
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
+.container{
+    
+    border: border:1px solid #000000;
+}
+.form-group{
+    width: 30%;
